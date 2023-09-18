@@ -17,7 +17,7 @@ console.log(resultado);
 //funciones que tienen y reciben parametros 
 //funciones que tienen y no reciben 
 
-function multiplicar(n1:number,otnum:number,base:number=3):number{
+function multiplicar(n1:number,base:number=3):number{
     let tem=n1*base;
     return tem;
 }
